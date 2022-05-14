@@ -1,0 +1,36 @@
+/**index.wxss**/
+page {
+    background-color: #f2f2f2;
+}
+.dome_button{
+    color: aqua;
+}
+t-cell{
+    margin-bottom: 40rpx;
+    width: 90vw;
+}
+.half{
+    width: 43vw;
+}
+.half_left{
+    margin-right: 4vw;
+}
+.half_box{
+    display: flex;
+}
+.t-cell{
+    border-radius:15rpx;
+}
+.t-cell__title-text{
+    font-size: 31rpx ;
+}
+.t-cell__description{
+    font-size: 24rpx !important;
+}
+.half_box .t-cell__description-text{
+    width: 19vw;
+    white-space:nowrap; 
+    text-overflow:ellipsis;
+    overflow:hidden;
+}
+

@@ -1,0 +1,77 @@
+<!--index.wxml-->
+<view class="container">
+
+<t-cell
+  title="批量旧版截图"
+  description="一段很长很长的内容文字"
+  align="top"
+  t-class-image="title-image-large"
+  image="/pages/index/png/point.png"
+/>
+<t-cell
+  title="批量查未注册"
+  description="一段很长很长的内容文字"
+  align="top"
+  t-class-image="title-image-large"
+  image="/pages/index/png/special.png"
+/>
+<view class="half_box">
+    <t-cell
+  title="查资料"
+  description="一段很"
+  align="top"
+  t-class-image="title-image-large"
+  image="/pages/index/png/hot.png"
+  class='half half_left'
+/>
+<t-cell
+  title="查发言"
+  description="一段长"
+  align="top"
+  t-class-image="title-image-large"
+  image="/pages/index/png/reply.png"
+  class='half'
+/>
+</view>
+<view class="half_box">
+    <t-cell
+  title="清理粉丝"
+  description="一段很长"
+  align="top"
+  t-class-image="title-image-large"
+  image="/pages/index/png/free.png"
+  class='half half_left'
+/>
+<t-cell
+  title="修改昵称"
+  description="一段很长很"
+  align="top"
+  t-class-image="title-image-large"
+  image="/pages/index/png/message.png"
+  class='half'
+/>
+</view>
+
+<view class="half_box">
+    <t-cell
+  title="云点赞"
+  description="一段很按时给发噶是噶是噶是噶是噶国务a杀杀杀刚刚"
+  align="top"
+  t-class-image="title-image-large"
+  image="/pages/index/png/agree.png"
+  class='half half_left'
+/>
+<t-cell
+  title="云刷粉"
+  description="一段很长很"
+  align="top"
+  t-class-image="title-image-large"
+  image="/pages/index/png/rank.png"
+  class='half'
+/>
+</view>
+
+
+
+
+</view>
